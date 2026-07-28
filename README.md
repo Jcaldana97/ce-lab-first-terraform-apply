@@ -13,12 +13,12 @@ Learn Terraform fundamentals by creating your first infrastructure resource. Thi
 
 ## 🎯 Learning Objectives
 
-- Set up first Terraform project
-- Write basic Terraform configuration  
-- Execute terraform workflow commands
-- Create AWS S3 bucket with Terraform
-- Understand Terraform state
-- Destroy resources safely
+✅ Set up first Terraform project
+✅ Write basic Terraform configuration  
+✅ Execute terraform workflow commands
+✅ Create AWS S3 bucket with Terraform
+✅ Understand Terraform state
+✅ Destroy resources safely
 
 ## 📁 Repository Structure
 
